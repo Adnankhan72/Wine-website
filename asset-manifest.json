@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/wine-website/static/css/main.1a9f1a96.css",
-    "main.js": "/wine-website/static/js/main.70536507.js",
+    "main.js": "/wine-website/static/js/main.23bed8b5.js",
     "static/js/453.bb828c5d.chunk.js": "/wine-website/static/js/453.bb828c5d.chunk.js",
     "static/media/wine3.png": "/wine-website/static/media/wine3.67f3bb15a86c6b797c3a.png",
     "static/media/texture.png": "/wine-website/static/media/texture.bac137d14fb56ced837b.png",
@@ -25,11 +25,11 @@
     "static/media/image1.png": "/wine-website/static/media/image1.3be2cbf770458cbc2086.png",
     "index.html": "/wine-website/index.html",
     "main.1a9f1a96.css.map": "/wine-website/static/css/main.1a9f1a96.css.map",
-    "main.70536507.js.map": "/wine-website/static/js/main.70536507.js.map",
+    "main.23bed8b5.js.map": "/wine-website/static/js/main.23bed8b5.js.map",
     "453.bb828c5d.chunk.js.map": "/wine-website/static/js/453.bb828c5d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.1a9f1a96.css",
-    "static/js/main.70536507.js"
+    "static/js/main.23bed8b5.js"
   ]
 }
